@@ -10,13 +10,12 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 
 Nulla sit amet purus nec magna bibendum convallis. Sed dignissim porta diam at sodales. Pellentesque eu rhoncus lectus, a vulputate tellus. Suspendisse sodales erat eget libero gravida gravida. Pellentesque in volutpat tortor. Mauris ac imperdiet eros, sed rhoncus nisl. Vestibulum consequat sed sem in faucibus. Phasellus in libero nec urna aliquet vulputate. Morbi volutpat mauris eget libero laoreet lacinia.
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus et tincidunt arcu. Duis vehicula euismod blandit. In sagittis, lorem quis posuere fringilla, dolor orci commodo quam, ac condimentum lectus nisi faucibus massa. Vestibulum pulvinar, dui a viverra sollicitudin, justo lectus ornare velit, nec congue lorem est vel justo. Ut id hendrerit lectus, sed fringilla nibh. Vestibulum tincidunt non est vitae finibus. Nulla sit amet sem tellus. Aenean ornare leo id erat porta, vitae pulvinar massa consequat. Integer eu elit augue. Suspendisse tempor augue nec bibendum blandit. Nunc ac faucibus dolor. Ut ultrices ipsum in risus condimentum tempor. Nulla egestas rutrum justo, vitae aliquam turpis.
->>>>>>> feature_2
+Vesti
+bulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus et tincidunt arcu. Duis vehicula euismod blandit. In sagittis, lorem quis posuere fringilla, dolor orci commodo quam, ac condimentum lectus nisi faucibus massa. Vestibulum pulvinar, dui a viverra sollicitudin, justo lectus ornare velit, nec congue lorem est vel justo. Ut id hendrerit lectus, sed fringilla nibh. Vestibulum tincidunt non est vitae finibus. Nulla sit amet sem tellus. Aenean ornare leo id erat porta, vitae pulvinar massa consequat. Integer eu elit augue. Suspendisse tempor augue nec bibendum blandit. Nunc ac faucibus dolor. Ut ultrices ipsum in risus condimentum tempor. Nulla egestas rutrum justo, vitae aliquam turpis.
 
 
 
 
-<<<<<<< HEAD
 
 
 
@@ -29,8 +28,8 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 Altação 15 
 
 alteração 17
-=======
+
 Alteração linha 15
 
 Alteração linha 17
->>>>>>> feature_2
+
