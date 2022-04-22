@@ -1,8 +1,22 @@
+<<<<<<< HEAD
 trabalho em grupo praticando bransh 
+=======
+grabalho em grupo praticando bransh 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet nisl sit amet ex iaculis tempor sed sit amet mauris. Fusce quis diam velit. Etiam vehicula sed ante eu accumsan. Nunc posuere neque vitae dapibus imperdiet. In vitae mollis ligula, eget rhoncus ante. Vestibulum mattis ex tortor, eu aliquet nisi laoreet in. Cras turpis quam, elementum sed felis ut, egestas commodo metus.
+
+Mauris sollicitudin tortor sit amet cursus iaculis. Praesent facilisis congue facilisis. Nam vel sem in nisl efficitur congue feugiat nec nisl. Vivamus vitae augue eget felis accumsan ullamcorper ac quis lectus. Duis feugiat feugiat nulla congue dictum. Proin quis orci a nisl molestie blandit. Morbi facilisis turpis sit amet ultricies commodo. Nulla facilisi. Fusce vehicula tellus nec tellus dignissim, sit amet dapibus sapien mattis. Fusce interdum luctus metus id viverra. Aenean varius, enim non ornare fermentum, augue mi mattis nisi, eu dapibus lacus tortor at orci. Etiam viverra in lectus in porta. Curabitur sollicitudin dui nulla, tristique porta risus molestie vitae. Nam turpis dui, consectetur a lobortis sed, tempus eu enim. Nunc laoreet malesuada nunc, porta molestie elit cursus lacinia. Proin vel sollicitudin metus, id vehicula enim.
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Quisque ultricies felis a elit lacinia mattis tempus et nisl. Nunc maximus, leo eu tempus fringilla, nisi ipsum pellentesque ante, eget posuere sapien ante sit amet ante. Nunc laoreet placerat diam, finibus vulputate orci. Etiam nec dignissim nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam nec risus et diam ornare lacinia. Suspendisse tristique risus eu rhoncus egestas. In et lorem ultrices, dapibus ipsum id, euismod risus. Proin fringilla mattis lectus, nec ullamcorper libero tincidunt in. Ut vitae euismod elit. Quisque vulputate sed augue sit amet imperdiet. Integer et ipsum nec diam commodo molestie.
+
+Nulla sit amet purus nec magna bibendum convallis. Sed dignissim porta diam at sodales. Pellentesque eu rhoncus lectus, a vulputate tellus. Suspendisse sodales erat eget libero gravida gravida. Pellentesque in volutpat tortor. Mauris ac imperdiet eros, sed rhoncus nisl. Vestibulum consequat sed sem in faucibus. Phasellus in libero nec urna aliquet vulputate. Morbi volutpat mauris eget libero laoreet lacinia.
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus et tincidunt arcu. Duis vehicula euismod blandit. In sagittis, lorem quis posuere fringilla, dolor orci commodo quam, ac condimentum lectus nisi faucibus massa. Vestibulum pulvinar, dui a viverra sollicitudin, justo lectus ornare velit, nec congue lorem est vel justo. Ut id hendrerit lectus, sed fringilla nibh. Vestibulum tincidunt non est vitae finibus. Nulla sit amet sem tellus. Aenean ornare leo id erat porta, vitae pulvinar massa consequat. Integer eu elit augue. Suspendisse tempor augue nec bibendum blandit. Nunc ac faucibus dolor. Ut ultrices ipsum in risus condimentum tempor. Nulla egestas rutrum justo, vitae aliquam turpis.
+>>>>>>> feature_2
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -15,3 +29,8 @@ trabalho em grupo praticando bransh
 Altação 15 
 
 alteração 17
+=======
+Alteração linha 15
+
+Alteração linha 17
+>>>>>>> feature_2
